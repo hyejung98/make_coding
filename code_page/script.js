@@ -10,7 +10,7 @@ function to1() {
 	function ans()
 	{
 		if(input.value == "시작")
-			location.href="./code_page/page1_start.html";
+			location.href="./code_page/page01_start.html";
 		else
 		{
 			input.style.animation='shake 0.5s';
@@ -52,8 +52,8 @@ function to2() {
 
 	function ans()
 	{
-		if(input.value == "라온이")
-			location.href="./page2_raon.html";
+		if(input.value == "파이썬")
+			location.href="./page02_python.html";
 		else
 		{
 			input.style.animation='shake 0.5s';
